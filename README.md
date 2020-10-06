@@ -1,16 +1,23 @@
-### Hi there 👋
+# Hey there, I'm Naitik 👋
 
-<!--
-**naitikm-oss/naitikm-oss** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### I'm a student 👨‍💻 from Delhi, India who loves to create for the **web 🌐 and desktop**.
 
-Here are some ideas to get you started:
+- 🔭 I’m currently working on building websites and desktop applications
+- 🌱 I’m currently mastering python and learning rust 
+- 👯 I’m looking to collaborate on open source projects based on python and rust.
+- 💬 Ask me about Linux, productivity, websites and desktop application development.
+- 📫 How to reach me: [Email 📧](mailto:mundranaitik@outlook.com) 
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### What I Know 😎:
+- **Frontend Skills 🖌️** - HTML5, CSS3, SASS, Bootstrap, JavaScript.
+- **Backend Skills 🗄️** - Django, FastAPI, Flask, Django, Postgres, SQL, REST API.
+- **Related stuff** - Git, JWT, AWS, Digital Ocean, Heroku.
+
+### What I Want To Learn 🤓:
+ Master python and learn rust, more front-end and graphql.
+
+### My Stats
+<img src="https://github-readme-stats.vercel.app/api/?username=naitikm-oss&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515">
+
+---
+⭐️ From [naitim-oss](https://github.com/naitikm-oss)
