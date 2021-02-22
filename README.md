@@ -17,7 +17,7 @@
  Master python and learn rust, more front-end and graphql.
 
 ### My Stats
-<img src="https://github-readme-stats.vercel.app/api/?username=naitikm-oss&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515">
+<img src="https://github-readme-stats.vercel.app/api/?username=coder3112&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515">
 
 ---
 ⭐️ From [coder3112](https://github.com/coder3112)
