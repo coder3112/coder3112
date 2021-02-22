@@ -20,4 +20,4 @@
 <img src="https://github-readme-stats.vercel.app/api/?username=naitikm-oss&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515">
 
 ---
-⭐️ From [naitim-oss](https://github.com/naitikm-oss)
+⭐️ From [coder3112](https://github.com/coder3112)
