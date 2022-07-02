@@ -1,6 +1,6 @@
 # Hey there, I'm Naitik
 
-### I'm a student from Delhi, India who loves to create amazing stuff.
+#### I'm a high schooler from India who lives in Switzerland who loves to create amazing stuff.
 
 - I’m currently working on building websites and desktop applications
 - I’m currently mastering python and learning rust 
