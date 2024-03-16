@@ -6,7 +6,7 @@
 - I’m currently mastering python and learning rust 
 - I’m looking to collaborate on open source projects based on python and rust.
 - Ask me about Linux, productivity, websites and desktop application development.
-- How to reach me: [Email](mailto:mundranaitik@outlook.com) 
+- How to reach me: [Email](mailto:mundranaitik@gmail.com) 
 
 ### What I Know:
 - **Languages** - Python, Rust, Haskell (In that order of proficiency)
@@ -20,9 +20,3 @@
 - Compiler Programming
 - OSdev
 - Graphics Programming
-
-### My Stats
-<img src="https://github-readme-stats.vercel.app/api/?username=coder3112&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515">
-
----
-From [coder3112](https://github.com/coder3112)
