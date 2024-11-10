@@ -3,7 +3,6 @@
 #### I'm a high schooler from India who lives in Switzerland working on some amazing stuff.
 
 - I’m currently researching a Parallel Programming Runtime based on Cellular Automata
-  - I'm also working on a compile once run-anywhere language loosely based on C and Haskell.
 - I’m looking to collaborate on open source projects based on Python and Rust.
 - Ask me about Linux, Productivity, Websites and Desktop application development.
 - How to reach me: [Email](mailto:mundranaitik@gmail.com) 
