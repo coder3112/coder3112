@@ -4,7 +4,6 @@
 
 - I’m currently researching a Parallel Programming Runtime based on Cellular Automata
 - I’m looking to collaborate on open source projects based on Python and Rust.
-- Ask me about Linux, Productivity, Websites and Desktop application development.
 - How to reach me: [Email](mailto:mundranaitik@gmail.com) 
 
 ### What I Know:
